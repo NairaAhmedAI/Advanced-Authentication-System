@@ -44,7 +44,6 @@ The system is built inside a compact black enclosure for portability and protect
 * **Admin Mode**: Handled via Serial Monitor for user management.
 * **User Mode**: Fully standalone via the LCD and sensors.
 
-*(Optional: Insert your Video link or Screenshots here)*
 
 ---
 
@@ -57,9 +56,9 @@ The system is built inside a compact black enclosure for portability and protect
 ---
 
 ## 👥 Team Members
+* Naira Gamal
 * Basma Sameh
 * Mariam Wael
-* Naira Gamal
 * Nourhan Khalid
 * Shaimaa Mohi
 * Yasmin Abdelaziz
