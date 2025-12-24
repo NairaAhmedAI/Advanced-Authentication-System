@@ -9,7 +9,7 @@ The system evolved from a simple password-based entry to a more advanced archite
 
 ### 🛠️ Hardware Components
 * **Arduino UNO**: Main control unit.
-* **R305 Fingerprint Sensor**: Biometric identity verification.
+* **R307 Fingerprint Sensor**: Biometric identity verification.
 * **RC522 RFID Reader**: Contactless card identification.
 * **I2C LCD (16x2)**: User interface and real-time instructions.
 * **Buzzer & LEDs**: Audio-visual feedback for system status.
