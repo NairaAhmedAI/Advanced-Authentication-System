@@ -18,6 +18,7 @@ The system evolved from a simple password-based entry to a more advanced archite
   <br>
   <b>Figure 1: System Wiring Diagram (Arduino, RFID, Fingerprint, and LCD)</b>
 </p>
+
 ---
 
 ## 🔌 Circuit Connections
