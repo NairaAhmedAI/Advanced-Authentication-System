@@ -13,11 +13,11 @@ The system evolved from a simple password-based entry to a more advanced archite
 * **RC522 RFID Reader**: Contactless card identification.
 * **I2C LCD (16x2)**: User interface and real-time instructions.
 * **Buzzer & LEDs**: Audio-visual feedback for system status.
-  ![Circuit Diagram](<img width="1612" height="697" alt="Screenshot 2025-12-24 201859" src="https://github.com/user-attachments/assets/2b2a1573-5987-4085-ade0-cc5700128461" /
-*Figure 1: System Wiring Diagram*
-
-
-
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/2b2a1573-5987-4085-ade0-cc5700128461" width="800" alt="Circuit Diagram">
+  <br>
+  <b>Figure 1: System Wiring Diagram (Arduino, RFID, Fingerprint, and LCD)</b>
+</p>
 ---
 
 ## 🔌 Circuit Connections
